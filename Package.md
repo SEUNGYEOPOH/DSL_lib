@@ -34,3 +34,9 @@
       
 # Class
 객체(인스턴스)를 만들기 위한 틀(클래스)
+
+
+
+# 참조문헌
+[My porfolio blog](https://thinkreen.github.io/python/py-FunctionModuleClass/)
+
